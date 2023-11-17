@@ -96,35 +96,36 @@ Possible Side effects for non VRR areas:
 - Icons don't match correctly
 - not all configured transport types hide correctly
 
-**Partly supported Areas:**
 
-- ASEAG
-- BSVG
-- DING
-- IVB
-- KVV
-- LinzAG
-- NVBW
-- SVV
-- TLEM
-- VBL
-- VGN
-- VMV
-- VOR
-- VRN
-- VVO
-- VVS
-- VVV
-- BVG
-- DB
-- NAHSH
-- NASA
-- NVV
-- RSAG
-- SBB
-- VBB
-- VBN
-- ÖBB
+|        |  Partly supported Areas                        |
+| ------ | ---------------------------------------------- |
+| ASEAG  | Aachener Straßenbahn und Energieversorgungs-AG |
+| BSVG   | Braunschweiger Verkehrs-GmbH                   |
+| BVG    | Berliner Verkehrsgesellschaft                  |
+| DB     | Deutsche Bahn                                  |
+| DING   | Donau-Iller-Nahverkehrsverbund-GmbH            |
+| IVB    | Innsbrucker Verkehrsbetriebe                   |
+| KVV    | Karlsruher Verkehrsverbund                     |
+| LinzAG | Linz AG                                        |
+| NAH.SH | Nahverkehrsverbund Schleswig-Holstein          |
+| NASA   | Nahverkehrsservice Sachsen-Anhalt              |
+| NVBW   | Nahverkehrsgesellschaft Baden-Württemberg      |
+| NVV    | Nordhessischer Verkehrsverbund                 |
+| ÖBB    | Österreichiche Bundesbahnen                    |
+| SVV    | Salzburger Verkehrsverbund                     |
+| TLEM   |                                                |
+| VOR    | Verkehrsverbund Ost-Region                     |
+| VRN    | Verkehrsverbund Rhein-Neckar                   |
+| RSAG   | Rostocker Straßenbahn AG                       |
+| SBB    | Schweizerische Bundesbahnen AG                 |
+| VBB    | Verkehrsverbund Berlin-Brandenburg             |
+| VBL    | Verkehrsgesellschaft Bergisches Land           |
+| VBN    | Verkehrsverbund Bremen/Niedersachsen           |
+| VGN    |                                                |
+| VMV    | Verkehrsgesellschaft Mecklenburg-Vorpommern    |
+| VVO    | Verkehrsverbund Oberelbe                       |    
+| VVS    | Verkehrs- und Tarifverbund Stuttgart           |
+| VVV    |                                                |
 
 ## <a name="check"></a> Check if your station is supported
 
